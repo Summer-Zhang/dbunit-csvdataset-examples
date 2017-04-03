@@ -1,8 +1,8 @@
 # phpunit/dbunit CsvDataSet Examples
 
-Examples showing differences between version 2.0 and 3.0 of dbunit in importing CSV files as innitial data sets.
+Examples showing differences between version 2.0 and 3.0 of dbunit in importing CSV files as initial data sets.
 
-dbunit in version 3.0 switched to using namespaces and that allowed for much shorter class names, but this is not well documented in official phpunit documentation. Official manual of phpunit for version >6 in chapter 8. *Database Testing* still shows examples partially based on dbunit 2.0 what makes them broken and useless.
+dbunit in version 3.0 switched to using namespaces and that allowed for much shorter class names, but this is not well documented in official phpunit documentation. Official manual of phpunit for version >6 in *Chapter 8. Database Testing* still shows examples partially based on dbunit 2.0 what makes them broken and useless.
 
 Trying to install dbunit 2.0 with phpunit >6 will result in broken dependencies. So either you stick to old phpunit 5.7 or switch to not so well documented dbunit 3.0
 
