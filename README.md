@@ -8,4 +8,4 @@ Trying to install dbunit 2.0 with phpunit >=6 will result in broken dependencies
 
 To run examples download and run composer in each `dbTest2` and `dbTest3` folder separately and then run tests. There is also test database dump included. It will work for both examples. Experiment by copying `composer.json` file from `dbTest3` to `dbTest2`, updating composer configuration and runing test again.
 
-However CSV is not best data set choice but its simplicity makes it perfect for learning purposes. I hope with this examples no one get stuck as I did on this issue.
+However CSV is not best data set choice but its simplicity makes it perfect for learning purposes. I hope with these examples no one get stuck as I did on this issue.
